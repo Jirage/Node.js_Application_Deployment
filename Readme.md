@@ -101,6 +101,11 @@ You should see:
  
 ![](./image/Screenshot%202.jpg)
 
+## Summary 
+This guide shows how to deploy a Node.js app on AWS EC2, install necessary tools, run the app with PM2, and set up Nginx as a reverse proxy for secure, accessible web hosting.
+
+
+
 
 
 
