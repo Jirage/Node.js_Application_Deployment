@@ -1,6 +1,7 @@
 # Node.js Application Deployment Using EC2 and Nginx on AWS
 
 ### This project demonstrates deploying a Node.js web application hosted on a cloud-based AWS EC2 instance, with Nginx acting as a reverse proxy, ensuring high performance and security. The primary goal is to build, deploy, and serve a Node.js server on EC2, making it accessible via a domain or public IP.
+![](./image/Artitecture.png)
 
 ### Project Objectives
 * Launch an EC2 Instance and configure security.
